@@ -5,5 +5,5 @@
   <b>reaction</b>     - is a signal, or speech act that is used to convey the <i>response</i> of a participant
                         of the Play to the action(s) of other participants;
   <b>reciprocity</b>  - a combination of action(s) and reaction(s) in which there is a causal relationship between
-                        these two parts.
+                  these two parts.
 </pre>
